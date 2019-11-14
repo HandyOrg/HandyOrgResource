@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Shortcut/@EntryValue">xamlregion</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Description/@EntryValue">Region for Xaml</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Text/@EntryValue">&lt;!--region $regionName$--&gt;&#xD;
+&#xD;
+&#xD;
+&#xD;
+&lt;!--endregion--&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/Type/@EntryValue">Everywhere</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Field/=regionName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7650305BAFCF0B46A2E1DAE5D2C6CAB1/Field/=regionName/Order/@EntryValue">0</s:Int64></wpf:ResourceDictionary>

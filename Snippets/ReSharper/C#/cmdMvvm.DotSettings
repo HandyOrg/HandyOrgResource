@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Shortcut/@EntryValue">cmdMvvm</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Description/@EntryValue">cmdMvvm</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Text/@EntryValue">public $RelayCommand$ $cmdName$Cmd =&gt; new Lazy&lt;$RelayCommand$&gt;(() =&gt; &#xD;
+	new $RelayCommand$($cmdName$)).Value;&#xD;
+&#xD;
+private void $cmdName$()&#xD;
+{&#xD;
+ &#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Categories/=Imported_00202019_002F1_002F27/@EntryIndexedValue">Imported 2019/1/27</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Categories/=Imported_00202019_002F4_002F29/@EntryIndexedValue">Imported 2019/4/29</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Field/=cmdName/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Field/=cmdName/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Field/=RelayCommand/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2E985A7A72FE4247B981A9DFFCCFB6EE/Field/=RelayCommand/Order/@EntryValue">1</s:Int64></wpf:ResourceDictionary>
